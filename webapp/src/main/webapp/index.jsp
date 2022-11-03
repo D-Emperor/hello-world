@@ -10,10 +10,8 @@
     <input class="input-field" type="text" placeholder="password" name="password">
   </div>
   
-  <div class="input-container">
-    <i class="fa fa-envelope icon"></i>
-    <input class="input-field" type="text" placeholder="Gender" name="Gender">
-  </div>
+
+  
   
   <div class="input-container">
     <i class="fa fa-envelope icon"></i>
